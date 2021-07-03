@@ -1,4 +1,4 @@
-# discord-account-generator
+# discord account generator
 automatically creates discord accounts, no captcha API key required
 
 
